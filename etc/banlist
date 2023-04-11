@@ -1,0 +1,7 @@
+# Any hostnames or IP's you want to be banned, please add them here, one per line.
+# Regular expressions can be used here to describe a collection of hosts
+# type 'man regex' for more details, or 'man re_syntax'
+# For example:
+#  qorey*
+#  ipwnzjoo*
+#  199\.17\.*
